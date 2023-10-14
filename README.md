@@ -1,4 +1,4 @@
-## DeepFashion: Fashion Image Generation with Deep Learning
+# DeepFashion: Fashion Image Generation with Deep Learning
 Welcome to the DeepFashion repository, where we explore the use of state-of-the-art deep learning techniques to generate high-fashion clothing and styles. This project involves the conversion of the DeepFashion dataset to COCO format, the implementation of object detection models, and the creation of high-quality fashion images using Generative Adversarial Networks (GANs) with PyTorch.
 
 ## File Descriptions
