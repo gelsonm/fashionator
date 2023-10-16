@@ -26,6 +26,8 @@ Before running the code, ensure you have the necessary dependencies and librarie
 * It uses PyTorch's data loading functionality to load the dataset. Ensure that your dataset is in the specified directory structure.
 * The code applies transformations such as resizing, center cropping, and normalization to the images.
 
+ ![train_images](https://github.com/gelsonm/fashionator/assets/37416550/52707c51-3249-4e0c-b321-35492f86cf19)
+
 3. **Generator and Discriminator Models**:
 
 * The code defines the architecture for the GAN. It includes two key components: the generator and the discriminator.
@@ -56,6 +58,7 @@ It iterates through the dataset and consists of two main steps:
     The loss for both the discriminator and generator is calculated in each step.
 
 7. **Monitoring Training Progress**:
+![train](https://github.com/gelsonm/fashionator/assets/37416550/5deb5ab4-9269-4698-8627-e09de88004d9)
 
     It saves generated images at regular intervals and keeps track of losses.
     This allows you to visualize the progress of your GAN during training.
